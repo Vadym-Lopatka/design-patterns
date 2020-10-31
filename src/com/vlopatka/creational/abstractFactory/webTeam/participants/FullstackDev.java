@@ -1,4 +1,4 @@
-package com.vlopatka.creational.abstractFactory.webTeam;
+package com.vlopatka.creational.abstractFactory.webTeam.participants;
 
 import com.vlopatka.creational.abstractFactory.Dev;
 
