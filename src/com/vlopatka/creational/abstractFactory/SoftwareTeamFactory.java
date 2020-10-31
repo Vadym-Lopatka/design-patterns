@@ -2,9 +2,9 @@ package com.vlopatka.creational.abstractFactory;
 
 public interface SoftwareTeamFactory {
 
-    public Dev getDev();
+    Dev getDev();
 
-    public Qa getQa();
+    Qa getQa();
 
-    public Pm getPm();
+    Pm getPm();
 }

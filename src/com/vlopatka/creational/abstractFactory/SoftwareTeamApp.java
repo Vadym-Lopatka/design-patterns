@@ -5,7 +5,7 @@ import com.vlopatka.creational.abstractFactory.webTeam.WebTeamFactory;
 public class SoftwareTeamApp {
 
     public static void main(String[] args) {
-        WebTeamFactory teamFactory = new WebTeamFactory();
+        SoftwareTeamFactory teamFactory = new WebTeamFactory(); // or DeepLearningTeamFactory
 
         Dev dev = teamFactory.getDev();
         Qa qa = teamFactory.getQa();
