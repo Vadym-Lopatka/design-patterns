@@ -1,8 +1,8 @@
-package com.vlopatka.creational.factoryMethod.bmw;
+package com.vlopatka.creational.factoryMethod.brands.bmw;
 
 import com.vlopatka.creational.factoryMethod.Car;
 
-public class Bwm implements Car {
+public class Bmw implements Car {
 
     @Override
     public void startEngine() {

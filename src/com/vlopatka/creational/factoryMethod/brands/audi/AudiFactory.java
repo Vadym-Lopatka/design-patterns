@@ -1,4 +1,4 @@
-package com.vlopatka.creational.factoryMethod.audi;
+package com.vlopatka.creational.factoryMethod.brands.audi;
 
 import com.vlopatka.creational.factoryMethod.Car;
 import com.vlopatka.creational.factoryMethod.CarFactory;
